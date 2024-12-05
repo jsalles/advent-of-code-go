@@ -1,5 +1,28 @@
-# Advent of Code in Go
+# 🎄 Advent of Code 2024 in Go
 
+Solutions for [Advent of Code](https://adventofcode.com/) in Golang
+
+<!--- advent_readme_stars table --->
+## 2023 Results
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+
+<!--- advent_readme_stars table --->
+
+<!--- benchmarking table --->
+## Benchmarks
+
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---:  |
+
+
+**Total: 0ms**
+<!--- benchmarking table --->
+
+---
+
+<details>
 A handy template repository to hold your [Advent of Code](https://adventofcode.com) solutions in Go (golang).
 
 Advent of Code (https://adventofcode.com) is a yearly series of programming questions based on the [Advent Calendar](https://en.wikipedia.org/wiki/Advent_calendar). For each day leading up to christmas, there is one question released, and from the second it is released, there is a timer running and a leaderboard showing who solved it first.
@@ -80,3 +103,4 @@ Advent of Code (https://adventofcode.com) is a yearly series of programming ques
 With your session set, running `code.go` will download your user-specifc `input-user.txt` and also update `README.md` with part 2 of the question once you've completed part 1.
 
 Currently, your session is NOT used to submit your answer. You still need to login to https://adventofcode.com to submit.
+</details>
