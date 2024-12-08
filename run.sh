@@ -44,7 +44,7 @@ if [ -z "$YEAR" ] || [ -z "$DAY" ]; then
 fi
 # pad DAY to 2 digits
 DAY=$(printf "%02d" $DAY)
-DIR="./$YEAR/$DAY"
+DIR="./src/$YEAR/days/$DAY"
 # create missing files as needed
 if [ ! -d "$DIR" ]; then
 	mkdir -p "$DIR"
