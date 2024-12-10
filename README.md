@@ -25,9 +25,18 @@ Solutions for [Advent of Code](https://adventofcode.com/) in Golang
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
+| [Day 1] | `224.11µs` | `225.24µs` |
+| [Day 2] | `104.10µs` | `268.23µs` |
+| [Day 3] | `296.56µs` | `116.83µs` |
+| [Day 4] | `107.88µs` | `506.37µs` |
+| [Day 5] | `309.57µs` | `1.63ms` |
+| [Day 6] | `637.52µs` | `762.55ms` |
+| [Day 7] | `1.22ms` | `635.44ms` |
+| [Day 8] | `59.76µs` | `113.45µs` |
+| [Day 9] | `1.51ms` | `15.70ms` |
+| [Day 10] | `275.25µs` | `275.60µs` |
 
-
-**Total: 0ms**
+**Total: 1421.57ms**
 <!--- benchmarking table --->
 
 ---

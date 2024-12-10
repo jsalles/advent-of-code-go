@@ -1,4 +1,4 @@
-package inputfile
+package harness
 
 import (
 	"fmt"
