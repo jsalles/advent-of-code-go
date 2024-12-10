@@ -79,8 +79,10 @@ func ConstructTable(prefix string, timings []Timings, totalMillis float64) strin
 			part2Val = *timing.Part2
 		}
 
-		lines = append(lines, fmt.Sprintf("| [Day %d] | `%s` | `%s` |",
+		binPath := fmt.Sprintf("./src/2024/days/%02d/code.go", timing.Day.value)
+		lines = append(lines, fmt.Sprintf("| [Day %d](%s) | `%s` | `%s` |",
 			timing.Day.IntoInner(),
+			binPath,
 			part1Val,
 			part2Val))
 	}
