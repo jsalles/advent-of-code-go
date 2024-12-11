@@ -25,18 +25,19 @@ Solutions for [Advent of Code](https://adventofcode.com/) in Golang
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
-| [Day 1](./src/2024/days/01/code.go) | `224.82µs` | `225.38µs` |
-| [Day 2](./src/2024/days/02/code.go) | `104.16µs` | `270.35µs` |
-| [Day 3](./src/2024/days/03/code.go) | `299.95µs` | `117.36µs` |
-| [Day 4](./src/2024/days/04/code.go) | `106.42µs` | `501.50µs` |
-| [Day 5](./src/2024/days/05/code.go) | `308.51µs` | `1.65ms` |
-| [Day 6](./src/2024/days/06/code.go) | `638.61µs` | `759.95ms` |
-| [Day 7](./src/2024/days/07/code.go) | `1.21ms` | `632.14ms` |
-| [Day 8](./src/2024/days/08/code.go) | `59.48µs` | `113.20µs` |
-| [Day 9](./src/2024/days/09/code.go) | `1.52ms` | `15.50ms` |
-| [Day 10](./src/2024/days/10/code.go) | `275.73µs` | `279.54µs` |
+| [Day 1](./src/2024/days/01/code.go) | `229.45µs` | `228.64µs` |
+| [Day 2](./src/2024/days/02/code.go) | `103.94µs` | `269.23µs` |
+| [Day 3](./src/2024/days/03/code.go) | `298.30µs` | `117.70µs` |
+| [Day 4](./src/2024/days/04/code.go) | `110.95µs` | `504.17µs` |
+| [Day 5](./src/2024/days/05/code.go) | `308.60µs` | `1.64ms` |
+| [Day 6](./src/2024/days/06/code.go) | `651.11µs` | `764.81ms` |
+| [Day 7](./src/2024/days/07/code.go) | `1.22ms` | `643.48ms` |
+| [Day 8](./src/2024/days/08/code.go) | `61.25µs` | `122.65µs` |
+| [Day 9](./src/2024/days/09/code.go) | `1.47ms` | `15.65ms` |
+| [Day 10](./src/2024/days/10/code.go) | `275.15µs` | `275.54µs` |
+| [Day 11](./src/2024/days/11/code.go) | `255.90ns` | `244.10ns` |
 
-**Total: 1415.48ms**
+**Total: 1431.84ms**
 <!--- benchmarking table --->
 
 ---

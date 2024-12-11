@@ -146,7 +146,7 @@ func ParseExecTime(output []string, day Day) Timings {
 
 func ParseTime(line string) (string, float64, bool) {
 	// Regex to match the benchmark format: numbers followed by "ns/op"
-	re := regexp.MustCompile(`\s+(\d+)\s+ns/op`)
+	re := regexp.MustCompile(`\s+([\d.]+)\s+ns/op`)
 	matches := re.FindStringSubmatch(line)
 	if len(matches) != 2 {
 		return "", 0, false
