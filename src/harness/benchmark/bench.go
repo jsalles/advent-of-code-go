@@ -3,6 +3,7 @@ package benchmark
 import (
 	"fmt"
 	"os"
+	"strconv"
 )
 
 const (
@@ -12,21 +13,23 @@ const (
 )
 
 func AllDays() []Day {
-	// TODO: make this dynamic
-	return []Day{
-		{1},
-		{2},
-		{3},
-		{4},
-		{5},
-		{6},
-		{7},
-		{8},
-		{9},
-		{10},
-		{11},
-		{12},
+	days := []Day{}
+
+	entries, err := os.ReadDir("./src/2024/days/")
+	if err != nil {
+		return days
 	}
+
+	for _, entry := range entries {
+		if entry.IsDir() {
+			dayNum, err := strconv.Atoi(entry.Name())
+			if err == nil {
+				days = append(days, Day{dayNum})
+			}
+		}
+	}
+
+	return days
 }
 
 func RunBenchmarks() {
