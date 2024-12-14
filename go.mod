@@ -1,6 +1,6 @@
 module aoc-in-go
 
-go 1.21.3
+go 1.22
 
 require (
 	github.com/JohannesKaufmann/html-to-markdown v1.4.2 // indirect
