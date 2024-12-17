@@ -29,22 +29,23 @@ Solutions for [Advent of Code](https://adventofcode.com/) in Golang
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
-| [Day 1](./src/2024/days/01/code.go) | `231.28µs` | `227.26µs` |
-| [Day 2](./src/2024/days/02/code.go) | `104.12µs` | `268.50µs` |
-| [Day 3](./src/2024/days/03/code.go) | `311.70µs` | `119.12µs` |
-| [Day 4](./src/2024/days/04/code.go) | `139.22µs` | `508.18µs` |
-| [Day 5](./src/2024/days/05/code.go) | `312.61µs` | `1.67ms` |
-| [Day 6](./src/2024/days/06/code.go) | `642.34µs` | `785.39ms` |
-| [Day 7](./src/2024/days/07/code.go) | `1.25ms` | `637.37ms` |
-| [Day 8](./src/2024/days/08/code.go) | `59.72µs` | `114.62µs` |
-| [Day 9](./src/2024/days/09/code.go) | `1.51ms` | `16.46ms` |
-| [Day 10](./src/2024/days/10/code.go) | `277.04µs` | `276.96µs` |
-| [Day 11](./src/2024/days/11/code.go) | `304.50ns` | `290.60ns` |
-| [Day 12](./src/2024/days/12/code.go) | `7.50ms` | `8.76ms` |
-| [Day 13](./src/2024/days/13/code.go) | `193.85µs` | `194.56µs` |
-| [Day 14](./src/2024/days/14/code.go) | `141.97µs` | `6.30ms` |
+| [Day 1](./src/2024/days/01/code.go) | `227.76µs` | `232.22µs` |
+| [Day 2](./src/2024/days/02/code.go) | `104.54µs` | `270.26µs` |
+| [Day 3](./src/2024/days/03/code.go) | `296.63µs` | `117.06µs` |
+| [Day 4](./src/2024/days/04/code.go) | `155.25µs` | `509.33µs` |
+| [Day 5](./src/2024/days/05/code.go) | `309.39µs` | `1.64ms` |
+| [Day 6](./src/2024/days/06/code.go) | `639.98µs` | `802.24ms` |
+| [Day 7](./src/2024/days/07/code.go) | `1.25ms` | `638.57ms` |
+| [Day 8](./src/2024/days/08/code.go) | `60.89µs` | `113.73µs` |
+| [Day 9](./src/2024/days/09/code.go) | `1.48ms` | `15.86ms` |
+| [Day 10](./src/2024/days/10/code.go) | `283.59µs` | `276.45µs` |
+| [Day 11](./src/2024/days/11/code.go) | `260.10ns` | `250.60ns` |
+| [Day 12](./src/2024/days/12/code.go) | `6.21ms` | `8.28ms` |
+| [Day 13](./src/2024/days/13/code.go) | `193.67µs` | `192.85µs` |
+| [Day 14](./src/2024/days/14/code.go) | `141.20µs` | `6.33ms` |
+| [Day 15](./src/2024/days/15/code.go) | `481.20µs` | `1.16ms` |
 
-**Total: 1470.33ms**
+**Total: 1487.63ms**
 <!--- benchmarking table --->
 
 ---
