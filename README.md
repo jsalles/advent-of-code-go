@@ -32,25 +32,26 @@ Solutions for [Advent of Code](https://adventofcode.com/) in Golang
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---:  |
-| [Day 1](./src/2024/days/01/code.go) | `224.97µs` | `225.61µs` |
-| [Day 2](./src/2024/days/02/code.go) | `104.31µs` | `272.85µs` |
-| [Day 3](./src/2024/days/03/code.go) | `297.99µs` | `118.54µs` |
-| [Day 4](./src/2024/days/04/code.go) | `105.20µs` | `510.82µs` |
-| [Day 5](./src/2024/days/05/code.go) | `310.12µs` | `1.63ms` |
-| [Day 6](./src/2024/days/06/code.go) | `640.04µs` | `764.81ms` |
-| [Day 7](./src/2024/days/07/code.go) | `1.22ms` | `639.24ms` |
-| [Day 8](./src/2024/days/08/code.go) | `59.73µs` | `115.05µs` |
-| [Day 9](./src/2024/days/09/code.go) | `1.51ms` | `15.46ms` |
-| [Day 10](./src/2024/days/10/code.go) | `275.89µs` | `278.74µs` |
-| [Day 11](./src/2024/days/11/code.go) | `244.50ns` | `251.10ns` |
-| [Day 12](./src/2024/days/12/code.go) | `6.21ms` | `8.27ms` |
-| [Day 13](./src/2024/days/13/code.go) | `195.77µs` | `193.68µs` |
-| [Day 14](./src/2024/days/14/code.go) | `140.81µs` | `6.38ms` |
-| [Day 15](./src/2024/days/15/code.go) | `481.91µs` | `1.15ms` |
-| [Day 16](./src/2024/days/16/code.go) | `104.14ms` | `288.80ms` |
-| [Day 17](./src/2024/days/17/code.go) | `1.90µs` | `505.07µs` |
+| [Day 1](./src/2024/days/01/code.go) | `222.13µs` | `237.18µs` |
+| [Day 2](./src/2024/days/02/code.go) | `105.90µs` | `268.20µs` |
+| [Day 3](./src/2024/days/03/code.go) | `303.41µs` | `117.34µs` |
+| [Day 4](./src/2024/days/04/code.go) | `112.84µs` | `511.65µs` |
+| [Day 5](./src/2024/days/05/code.go) | `310.35µs` | `1.63ms` |
+| [Day 6](./src/2024/days/06/code.go) | `638.42µs` | `779.34ms` |
+| [Day 7](./src/2024/days/07/code.go) | `1.24ms` | `639.05ms` |
+| [Day 8](./src/2024/days/08/code.go) | `59.81µs` | `114.24µs` |
+| [Day 9](./src/2024/days/09/code.go) | `1.48ms` | `15.49ms` |
+| [Day 10](./src/2024/days/10/code.go) | `274.62µs` | `274.60µs` |
+| [Day 11](./src/2024/days/11/code.go) | `261.00ns` | `250.40ns` |
+| [Day 12](./src/2024/days/12/code.go) | `6.20ms` | `8.26ms` |
+| [Day 13](./src/2024/days/13/code.go) | `192.80µs` | `192.65µs` |
+| [Day 14](./src/2024/days/14/code.go) | `140.51µs` | `6.37ms` |
+| [Day 15](./src/2024/days/15/code.go) | `497.50µs` | `1.16ms` |
+| [Day 16](./src/2024/days/16/code.go) | `103.62ms` | `279.93ms` |
+| [Day 17](./src/2024/days/17/code.go) | `1.92µs` | `508.04µs` |
+| [Day 18](./src/2024/days/18/code.go) | `941.38µs` | `10.56ms` |
 
-**Total: 1843.88ms**
+**Total: 1860.35ms**
 <!--- benchmarking table --->
 
 ---
