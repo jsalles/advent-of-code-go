@@ -106,14 +106,6 @@ func dijkstras(grid [][]bool) (int, map[Position]bool) {
 	return -1, map[Position]bool{}
 }
 
-func copyPath(path map[Position]bool) map[Position]bool {
-	result := make(map[Position]bool, len(path))
-	for k, v := range path {
-		result[k] = v
-	}
-	return result
-}
-
 func isInGrid(pos Position, grid [][]bool) bool {
 	return pos.y >= 0 && pos.y < len(grid) && pos.x >= 0 && pos.x < len(grid[0])
 }
