@@ -35,7 +35,6 @@ func run(part2 bool, input string) any {
 	for _, lock := range locksPinHeights {
 		for _, key := range keysPinHeights {
 			fits := true
-			// fmt.Print("lock", lock, "key", key)
 			for i := range 5 {
 				if lock[i]+key[i] > 5 {
 					fits = false

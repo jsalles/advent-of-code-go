@@ -1,6 +1,7 @@
 package main
 
 import (
+	"log"
 	"os"
 	"testing"
 )
@@ -21,6 +22,7 @@ func TestPart1(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
+			log.Printf("tt.input: %v\n", tt.input)
 			if got := run(false, tt.input); got != tt.want {
 				t.Errorf("part1() = %v, want %v", got, tt.want)
 			}
